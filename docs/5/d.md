@@ -30,7 +30,7 @@ Even funnier, all the assets owned by the GG will be played under one special ac
 
 Every month Citizen players will be able to vote for someone to have access and control over the GG account. The selected person can be anyone even a famous pro game player. The selected person will be paid for his Job with the Galactic Government Treasure fund depending on his performance. His goal will be to play the evil GG that uses marines to aeack other planets and thus choose what to build who to aeack when to explore etc. This player won’t have any on-chain access obviously, it will only be a limited in-game account designed in a way to make any abuse aeempt useless.
 
-Therefore $GKC aims to be a real in-game governance token that has real shared sink utilities and whose value will be directly and inherently correlated to the game's success, unlike most governance tokens whose value are currently purely speculative. This token contrary to $GB will be available on CEtis, on DEtis everywhere reliable.
+Therefore $GKC aims to be a real in-game governance token that has real shared sink utilities and whose value will be directly and inherently correlated to the game's success, unlike most governance tokens whose value are currently purely speculative. This token contrary to $GB will be available on CEXs, on DEtis everywhere reliable.
 
 $GKC will have a fixed max supply of 3 660 000 000.
 

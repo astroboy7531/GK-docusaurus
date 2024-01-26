@@ -22,6 +22,6 @@ That way only the real circulating supply will be interesting to observe ( suppl
 
 Initially, there will be a small liquidity pool using a public Dex on Solana that slowly will get others to provide liquidity on top by incentivizing them with $GKC, on top of liquidity-providing fees. But that will be the only external Dex used by the Galactic Kingdom just in the wait for our own tailored Dex directly in the app.
 
-$GB will never provide any supply to be on any CEti. We want to avoid any form of speculation and even more leveraged speculation on our in-game currency since high price volatility hinders the game's enjoyability for players.
+$GB will never provide any supply to be on any CEX. We want to avoid any form of speculation and even more leveraged speculation on our in-game currency since high price volatility hinders the game's enjoyability for players.
 
 Through all that, we might be able to achieve our goal of having a relatively stable in-game currency
