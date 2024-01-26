@@ -2,7 +2,7 @@
 sidebar_position: 8
 ---
 
-# 6. Colclusion
+# 6. Conclusion
 
 This Paper doesn’t go in-depth on all the fun mechanisms of the game, a game that aims to be enjoyable by everyone as many Web 2 players as Web 3 degens. These are beeer shown than wrieen about so stay tuned for our game trailers and get ready to play the Alpha earlier than you might think. We didn’t expand either on all our UX plans to make the game as smoothless as possible, in a way that Web 2 guys won’t even know they are already holders. Neither did we talk about what lies beyond the Great Galactic Line nor the story of the lost races. Galactic Kingdom is still full of mysteries and this paper only focused on what are the benefits of owning a Genesis Conqueror in the great world of Galactic Kingdom.
 
