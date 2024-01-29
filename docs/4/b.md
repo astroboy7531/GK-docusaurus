@@ -8,7 +8,7 @@ As explained with breeding, training will be the free-to-play version of breedin
 
 <ul>
     <li>
-        After geyng an invitation code from a Genesis Conqueror, f2p players will choose the Training way.
+        After getting an invitation code from a Genesis Conqueror,  f2p players will choose the Training way.
     </li>
     <li>
         By choosing this way, new players will start as a Conqueror Disciple.
@@ -20,10 +20,10 @@ As explained with breeding, training will be the free-to-play version of breedin
         As long as they stay Conqueror Disciples, 10% of every GSS and $GB they earn in-game will be automatically sent to their Genesis Conqueror Master
     </li>
     <li>
-        Conqueror Disciples can also recruit for their master and be elder brothers/sisters for the new players who want to become a disciple. 10% of every GSS and $GB earned in-game by this second disciple will be given to the first disciple. Half of these new 10% will be given to the Genesis Conqueror Master and half will be kept by the first disciple without being taxed by the Master. The second disciple will then also be able to recruit under his master, and 10% of every GSS and $GB earned in-game by this third disciple will be given to the second. Half of it will be given to the first disciple and the master will get nothing directly but the 10% tax on the first disciple will apply to the 5% he got from the third. And from then on each generation of disciple will follow the same pattern.
+        Conqueror Disciples can also recruit for their master and be elder brothers/sisters for the new players who want to become disciples. 10% of every GSS and $GB earned in-game by this second disciple will be given to the first disciple. Half of these new 10% will be given to the Genesis Conqueror Master and half will be kept by the first disciple without being taxed by the Master. The second disciple will then also be able to recruit under his master, and  10% of every GSS and $GB earned in-game by this third disciple will be given to the second. Half of it will be given to the first disciple and the master will get nothing directly but the 10% tax on the first disciple will apply to the 5% he got from the third. And from then on each generation of disciple will follow the same pattern.
     </li>
     <li>
-        If any recruit wants to become a descendant instead of going through training he will be able to directly do so by going to the master and buying his GCLFs instead and thus directly becoming Conqueror Descendants. A small percent of the price paid for GCLF will then also be given to the disciple that has brought him, no maeer the generation.
+        If any recruit wants to become a descendant instead of going through training he will be able to directly do so by going to the master and buying his GCLFs instead and thus directly becoming Conqueror Descendants. A small percent of the price paid for GCLF will then also be given to the disciple that has brought him, no matter the generation.
     </li>
     <li>
         Training is only available for new users, all the other players can only breed to normal mean(using GCLFs and CDBP)

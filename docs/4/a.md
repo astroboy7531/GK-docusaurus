@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Breeding is not a new feature in Web 3. Many games just implemented it by imitating the very first one they saw while just changing the names or asset genre. At first, it worked because breeding in itself is a game, there is something almost natural, no pun intended, that draws us to these breeding games even when it is sneakers that are breeding.
 
-The issue with these old-school breeding games is that the way they were modeled was a fertile breeding ground, again no pun intended, for infletion. Asset infletion and in-game currency infletion. Hence all of these games ended up being called Ponzis even though it wasn’t their first intention.
+The issue with these old-school breeding games is that the way they were modeled was a fertile breeding ground, again no pun intended, for inflation. Asset inflation and in-game currency inflation. Hence all of these games ended up being called Ponzis even though it wasn’t their first intention.
 
 The issue with these old breeding models and with most Web 3 games currently is that they took the old Web 2 game economic models and just tokenized some assets without really being aware of the real impact of having a Web 3 economy.
 
@@ -22,13 +22,13 @@ Here is how Breeding will work in the Galactic Kingdom:
         If a Genesis player wants to breed a new Conqueror Descendant he will be able to do so by combining the GCLF of a Male Genesis Conqueror and a female Genesis Conqueror in a Conqueror Descendant Birthing Portal( CDBP)
     </li>
     <li>
-        These CDBP will have the same five rarities and only be found in GTCs earned during an Exploration expedition on the Great Galactic Line. Therefore we will have complete control of the supply of new Descendant Conquerors.
+        These CDBP will have the same five rarities and only be found in GTCs earned during an exploration expedition on the Great Galactic Line. Therefore we will have complete control of the supply of new Descendant Conquerors.
     </li>
     <li>
         GCLF can be sold and bought in our in-game marketplace at a fixed minimum $GB price dictated by the Galactic Government
     </li>
     <li>
-        For new players, GCLF will be some sort of affiliate marketing user acquisition strategy, basically a new player will need an invitation code to start playing. This invitation code will forever be linked to one unique Genesis Conqueror. Once the invitation code is typed in, the new player will have the choice between breeding (pay to play) or Training (Free to play). When the new player chooses breeding he will pay the GCLF of the Genesis Conqueror he was invited by, and then buy an opposite-sex GCLF to anyone else or the same Genesis Conqueror Holder, if he has one. He won’t need a CDBP in this case. The price of one GCLF will be fixed by the GG, and the cheapest one will most likely be around half the minting price of the Genesis Conqueror at least for the first couple of breedings. That way new players will only have paid around the same amount as a Genesis Conqueror to start playing.
+        -For new players, GCLF will be some sort of affiliate marketing user acquisition strategy, basically a new player will need an invitation code to start playing. This invitation code will forever be linked to one unique Genesis Conqueror. Once the invitation code is typed in, the new player will have the choice between breeding (pay to play) or Training (Free to play). When the new player chooses breeding he will pay the GCLF of the Genesis Conqueror he was invited by, and then buy an opposite-sex GCLF to anyone else or the same Genesis Conqueror Holder, if he has one. He won’t need a CDBP in this case.  The price of one GCLF will be fixed by the GG, and the cheapest one will most likely be around half the minting price of the Genesis Conqueror at least for the first couple of breedings. That way new players will only have paid around the same amount as a Genesis Conqueror to start playing.
     </li>
     <li>
         The amount paid by the new player will be shared between the Genesis Conqueror parents and the Galactic Government. Definitive figures are yet to be determined but it might be considered that the first couple of breeding will go 100% to the Genesis Conqueror Parents, after what taxes will be put in place (like on almost all transactions in and out of the game) to sustain the game Team and the Tokenomics. That is an old but still efficient business model that will best benefit everyone.

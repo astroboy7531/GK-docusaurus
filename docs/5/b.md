@@ -14,6 +14,6 @@ There will be a capacity limit on how much GSS can be stored on one planet to av
 
 The GSS mining rate is still to be determined but it is good to know that GSS will also be tradeable against $GB of other players on the in-game marketplace or sometime directly sold to the Galactic Government against $GB.
 
-A fixed quantiity of $GB will be available for that.
+A fixed quantity of $GB will be available for that.
 
 GSS will be a completely off-chain resource.

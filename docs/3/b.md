@@ -4,25 +4,29 @@ sidebar_position: 2
 
 # b. Planets
 
-A Planet is the main territory of a Conqueror. Each conqueror will have one. Every facility built and every defense weapon built by a Defense System Building on the planet owned by a conqueror will be linked to the Planet. Planets will have levels, types, and rarities but won’t automatically be NFTs. That is where Genesis Planets will have their shared sink utility. Each Planet will have the possibility to change type and rarity by using Genesis Planets Seeds that will mainly be produced by Genesis Planets or that sometimes can be earned in a GTC found during an Exploration expedition on the Great Galactic Line. Each Planet will have level, type, rarity, health, and aeributes. The aeributes are the following:
+A Planet is the main territory of a Conqueror. Each conqueror will have one. Every facility built and every defense weapon built by a Defense System Building on the planet owned by a conqueror will be linked to the Planet. Planets will have levels, types, and rarities but won’t automatically be NFTs. That is where Genesis Planets will have their shared sink utility. Each Planet will have the possibility to change type and rarity by using Genesis Planets Seeds that will mainly be produced by Genesis Planets or that sometimes can be earned in a GTC found during an exploration expedition on the Great Galactic Line. Each Planet will have level, type, rarity, health, and attributes. The attributes are the following:
 
 <ul>
     <li>
-        Control (C): this aeribute will determine the number of defense weapons your planet can control
+        Control (C): this attribute will determine the number of defense weapons your planet can control
     </li>
     <li>
-        Health (H): this aeribute will increase the health point of your planet
+        Health (H): this attribute will increase the health point of your planet
     </li>
     <li>
-        Storage (S): this aeribute will increase the GSS (Galactic Sea Stone) storage capacity of your planet
+        Storage (S): this attribute will increase the GSS (Galactic Sea Stone) storage capacity of your planet
     </li>
 </ul>
 
-After each baele, the planet's Health point will decrease. Health Point(HP) can be restored using GSS or $GB. If Health points are never restored and After an aeack, HP gets to zero, the aeacking player will be able to destroy the facilities of a Planet and recycle 25% of the GSS used to build the facilities.
+After each battle, the planet's Health point will decrease. Health Point(HP) can be restored using GSS or $GB. If Health points are never restored and after an attack, HP gets to zero, the attacking player will be able to destroy the facilities of a Planet and recycle 25% of the GSS used to build the facilities.
+
 However, players will still be able to recover their facilities by spending GSS and $GB.
+
 The Genesis planets will have five types: Fire, Water, Mountain, Jungle, Plain
 Each planet type will have a synergy if associated with the right Conquerors.
-These synergies will boost the aeribute bonus of the Conquerors.
+
+These synergies will boost the attribute bonus of the Conquerors.
+
 Here below a table to summarize the different synergies:
 
 |Planet Type | Race Synergy |
@@ -68,6 +72,8 @@ The number of the same type of GPS needed for the Planet Terraformation Process 
 |**Rare**|3|4|5|6|7|
 |**Epic**|2|3|4|5|6|
 |**Legendary**|1|2|3|4|5|
+
+The number of the same type of GPS needed for the Planet Terraformation Process will be as the following:
 
 Mixed race can have synergy with both of his parent's planet type synergy. The Planet Terraformation Process (PTP) will cost $GB and use as many GPS as needed. Even Genesis Planet will be able to try PTP at their own risk.
 

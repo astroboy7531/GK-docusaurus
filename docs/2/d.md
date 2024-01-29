@@ -5,7 +5,7 @@ sidebar_position: 4
 # d. Conquerors Disciples
 
 Almost the same as the Conqueror Descendants, Conquerors Disciples are disciples of a Genesis Conqueror (Male or Female). The process of training will be explained later on in the paper but here are the main differences between Disciples and Genesis
-The initial aeribute state will be similar to Descendants:
+The initial attribute state will be similar to Descendants:
 
 |Rarity|Minimun attribute|Maximun attribute |New point per level|
 |-------------|------|--------|----|

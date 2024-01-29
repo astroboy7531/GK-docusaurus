@@ -6,11 +6,11 @@ sidebar_position: 3
 
 Galactic Berry is the in-game currency of Galactic Kingdom. It will first be a token on Solana but soon it will be on all the main blockchains desired by our community.
 
-As exposed earlier, $GB will be heavily taxed to ensure a continuous enjoyable experience for all players at all times.
+As exposed earlier,  $GB will be heavily taxed to ensure a continuous enjoyable experience for all players at all times.
 
-$GB will be mainly earned in-game through Exploration expedition on the Great Galactic Line or through trading GSS against it in the in-game marketplace.
+$GB will be mainly earned in-game through Exploration Expedition on the Great Galactic Line or through trading GSS against it in the in-game marketplace. 
 
-As stated earlier in the paper, the price and supply of $GB will be tightly controlled to maintain a healthy sustainable price. There will be a daily prize pool of $GB proportionally shared by all explorer under remunerated exploration expedition, depending on their total Luck compared to others. After the full launch, this $GB price pool size will be halved regularly, the halving rhythm is still to be determined, and a beeer assessment will be made once alpha play with simulated money and game economy is done.
+As stated earlier in the paper, the price and supply of $GB will be tightly controlled to maintain a healthy sustainable price. There will be a daily prize pool of $GB proportionally shared by all explorer under remunerated exploration expedition, depending on their total Luck compared to others.  After the full launch, this $GB price pool size will be halved regularly, the halving rhythm is still to be determined, and a better assessment will be made once alpha play with simulated money and game economy is done.
 
 Players will also have the possibility to pay to mint $GB like they used to do in Web 2 games.
 
@@ -24,4 +24,4 @@ Initially, there will be a small liquidity pool using a public Dex on Solana tha
 
 $GB will never provide any supply to be on any CEX. We want to avoid any form of speculation and even more leveraged speculation on our in-game currency since high price volatility hinders the game's enjoyability for players.
 
-Through all that, we might be able to achieve our goal of having a relatively stable in-game currency
+Through all that, we might be able to achieve our goal of having a relatively stable in-game currency 

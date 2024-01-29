@@ -5,7 +5,8 @@ sidebar_position: 3
 # c. Conquerors Descendants
 
 Conqueror descendants are the offspring of a Male Genesis Conqueror and a Female Genesis Conqueror. The process of breeding will be explained later on in the paper but here are the main differences between Descendants and Genesis:
-The initial aeribute state will be slightly inferior to Genesis:
+
+The initial attribute state will be slightly inferior to Genesis:
 
 | Rarity        | Minimun attribute | Maximun attribute | New point per level |
 | ------------- | ----------------- | ----------------- | ------------------- |
@@ -15,7 +16,7 @@ The initial aeribute state will be slightly inferior to Genesis:
 | **Epic**      | 28                | 64                | 12                  |
 | **Legendary** | 56                | 128               | 14                  |
 
-The rarity bonus per race will stay the same however mixed-race Descendants will have the Bonus applied to both of their parent race's special aeributes.
+The rarity bonus per race will stay the same however mixed-race Descendants will have the Bonus applied to both of their parent race's special attributes.s
 
 | Rarity        | Bonus |
 | ------------- | ----- |
@@ -33,4 +34,4 @@ The rarity bonus per race will stay the same however mixed-race Descendants will
 | **Fishman**  | Fleet Speed                      |
 | **Minks**    | Attack Power                     |
 
-For example for a Conqueror Descendant with a Human father and a Lunarian mother, the aeribute bonus of rarity will apply on both Luck and Defense Power
+For example for a Conqueror Descendant with a Human father and a Lunarian mother, the attribute bonus of rarity will apply on both Luck and Defense Power
