@@ -4,20 +4,15 @@ sidebar_position: 2
 
 # b. Build, Battle, Explore, Conquer 
 
-There are 3 Factions in the game. Each Conqueror will be randomly assigned one faction from the beginning.
+After this short introduction, here are the core features of Galactic Kingdom gameplay:
+Build, Battle, Explore, Conquer.
 
-Later on, at a higher level, he will be able to pay to change his factions. 
+Each player will have a Conqueror, a Planet, and a Mothership. In the beginning, the player will build facilities on his planet. The first and most important one is the Galactic Sea Stone(GSS) Miner.
 
-The Galactic Marines: all the conquerors who are obeying the Galactic Government and ensuring « peace » in the universe.
+GSS will be presented later on in this paper but it is the resource that will be needed for any construction going forward. Once enough GSS is gathered players will be able to build other types of facilities like, for example, a Shipyard to create spaceships or a Defense System to produce defense weapons and defend your planet.
 
-The Galactic Revolutionary: all the conquerors who rebelled against the Galactic Government and aimed to overthrow them.
+As soon as the player has built his first spaceship, he will be able to either go attack another player and try to steal his valuable resources or take the game out IRL to go on an exploration expedition on the  Great Galactic Line to try and find treasures of all sorts and conquer new planets.
 
-The Galactic Pirates: all the non-affiliated conquerors just aiming to find clues to get that One Peace and become the King of the Ancient Great Galactic Kingdom’s heir.
+This is the core game loop.
 
-Aside from the pirates, the conquerors of each faction generally can’t attack one of their own.
-
-However, with very valuable resources at stake during each battle, everything will be more than exciting and you’d rather not rely on your faction affiliation alone.
-
-That’s where guilds will come into play: players can get together and form guilds regardless of their faction and then even alliances between guilds to be ready in case of a new Intergalactic War. These will play an important part in protecting yourself from other Conquerors’ attacks or in attacking adversaries you wouldn’t be able to handle on your own.
-
-A platform to create and rule guilds and alliances will be available in-game to automatize everything.
+From a future game asset owner’s interest, to be even simpler: Build and Battle in a space like Clash of Clans, Explore and Go out in a space like Pokemon Go/StepN then Conquer and Expand your empire in a new unique way.

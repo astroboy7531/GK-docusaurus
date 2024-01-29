@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# j. Galactic Kingdom Citizen
+# j. Galactic Kingdom Citizenship 
 
 Most games, Web 2 and Web 3 alike seem to like the dual token model. With one in-game currency and one « governance » token as they call it. However, we have yet to see a governance token that has any real governance power at all. And it is completely understandable, why would any serious game studios let everything they built for years into the hands of a very random « democracy ». However, there is still a great place for some kind of governance and thus governance of in-game assets.  One that would give real in-game utilities like the shared sinks but also have a real impact on the game itself in a fun way.
 That is how we designed the Galactic Kingdom Citizenship token ($GKC).
