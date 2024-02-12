@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # i. Galactic Berry
 
-Galactic Berry is the in-game currency of Galactic Kingdom. It will first be a token on Solana but soon it will be on all the main blockchains desired by our community.
+Galactic Berry is the in-game currency of Galactic Kingdom. It will be a token on chain.
 
 As exposed earlier,  $GB will be heavily taxed to ensure a continuous enjoyable experience for all players at all times.
 
@@ -20,7 +20,7 @@ With that kind of fixed supply and all the different aspects of the economy, it 
 
 That way only the real circulating supply will be interesting to observe ( supply not owned on the Game) to manage the price and compare it with our BTC reserve.
 
-Initially, there will be a small liquidity pool using a public Dex on Solana that slowly will get others to provide liquidity on top by incentivizing them with $GKC, on top of liquidity-providing fees. But that will be the only external Dex used by the Galactic Kingdom just in the wait for our own tailored Dex directly in the app.
+Initially, there will be a small liquidity pool using a public Dex on chain that slowly will get others to provide liquidity on top by incentivizing them with $GKC, on top of liquidity-providing fees. But that will be the only external Dex used by the Galactic Kingdom just in the wait for our own tailored Dex directly in the app.
 
 $GB will never provide any supply to be on any CEX. We want to avoid any form of speculation and even more leveraged speculation on our in-game currency since high price volatility hinders the game's enjoyability for players.
 

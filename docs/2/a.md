@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # a. Galactic Kingdom: Genesis Conquerors
 
-The player character is a Conqueror. Conquerors are NFTs on SOLANA at first but will be multi-chain in the near future. More on our multi-chain vision will be shared later on.
+The player character is a Conqueror. Conquerors are gaming assets on chain..
 
 There will be three different collections of Conquerors : 
 

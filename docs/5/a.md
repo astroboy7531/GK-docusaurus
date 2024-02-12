@@ -23,7 +23,7 @@ To do that we designed all our business model, game economy, and tokenomics arou
 With that goal in mind, we intend to rely on heavy taxes on all value-extracting transactions. Value extracting is great but should not be easy, there is no such thing as free money and for us, the only way to ensure that no one is harmed in the process is by having tight control over the currency price. That’s why trying to speculate on our in-game currency $GB will be a bad experience. In the beginning, the only ones for whom buying $GB should be interesting are those who want to spend it in-game. Others might suffer great losses trying to speculate on it, especially during the period when BTC redeeming will not yet be available.
 
 These heavy taxes will start from NFTs royalties and go all the way to transaction fees on dexes
-To kickstart our Game Economy, more than 50% of the money raised through the Genesis Conquerors’s Mint, a little more than 1 Million dollars, will be allocated to the BTC reserve and the Liquidity Pool of our in-game currency $GB.
+To kickstart our Game Economy, a part of the money raised through the Genesis Conquerors’s Mint, a little more than 1 Million dollars, will be allocated to the BTC reserve and the Liquidity Pool of our in-game currency $GB.
 
 Genesis Conquerors will have 25% royalties, of these 25%, 75% will go to the BTC reserve, and 25% to the Team Treasury.
 
