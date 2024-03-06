@@ -38,8 +38,8 @@ function HomepageHeader() {
       // toast.success("Saved Successfully!");
       // setContactVisible(false);
 
-      // window.location.href = "https://docs.galactickingdom.io/docs/introduction";
-      window.location.href = "http://146.19.215.121:3000/docs/introduction";
+      window.location.href = "https://docs.galactickingdom.io/docs/introduction";
+      // window.location.href = "http://146.19.215.121:3000/docs/introduction";
       localStorage.setItem("temp", 'allow');
       //Email JS
       // TODO: ADD Email to store
